@@ -71,8 +71,8 @@ print(result)
     "rgb": "255, 0, 0",
     "hsl": "0, 100, 50",
     "cmyk": "0, 100, 100, 0",
-    "name": "red",
     "ansi16": 91,
+    "name": "red",
     "channels": {
       "rgbChannels": 3,
       "cmykChannels": 4,
