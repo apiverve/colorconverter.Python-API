@@ -80,7 +80,8 @@ print(result)
       "hexChannels": 1,
       "hslChannels": 3
     }
-  }
+  },
+  "code": 200
 }
 ```
 
